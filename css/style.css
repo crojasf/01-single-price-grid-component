@@ -1,0 +1,83 @@
+body {
+	font-family: 'Karla', sans-serif;
+	font-size: 16px;
+	background-color: hsl(204, 43%, 93%);
+}
+h2,
+h3 {
+	margin-top: 0;
+}
+
+main {
+	margin: 0 auto;
+	max-width: 375px;
+}
+
+.card {
+	margin: 2rem;
+	box-sizing: border-box;
+	font-size: 0.85rem;
+	line-height: 1.5rem;
+}
+
+.card-join {
+	border-radius: 5px 5px 0 0;
+	padding: 1rem 24px 1rem 24px;
+	background-color: #ffffff;
+	color: hsl(218, 22%, 67%)
+}
+
+.card-join h2 {
+	margin-top: 0;
+	color: hsl(179, 62%, 43%);
+}
+
+.card-join h3 {
+	margin-top: 0;
+	color: hsl(71, 73%, 54%)
+}
+
+
+
+.card-subscription {
+	padding: 24px;
+	background-color: hsl(179, 62%, 43%);
+	color: #ffffff;
+}
+.card-subscription-price {
+	color: hsl(179, 83%, 49%);
+}
+
+.card-subscription-price  span {
+	font-size: 2rem;
+	color: #ffffff;
+	padding-right: 0.5rem;
+}
+.card-subscription p {
+	font-size: 1.15em;
+}
+
+.card-subscription button {
+	color: #ffffff;
+	background-color:hsl(71, 73%, 54%);
+	width: 100%;
+	border: 0;
+	border-radius: 5px;
+	padding: 1rem 0;
+	margin-top: 1rem;
+	font-weight: bold;
+}
+
+
+
+.card-why {
+	padding: 24px;
+	background-color: hsl(179, 62%, 48%);
+	color: #ffffff;
+	border-radius: 0 0 5px 5px;
+}
+.card-why ul {
+list-style: none;
+padding: 0;
+margin-bottom: 0;
+}
