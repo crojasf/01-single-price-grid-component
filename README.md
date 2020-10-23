@@ -27,6 +27,11 @@ git remote add origin https://github.com/crojasf/01-single-price-grid-component.
 git push -u origin main
 ```
 
+Crear la estructura HTML del componente a crear
+
+
+
+
 
 ## Instalación
 
