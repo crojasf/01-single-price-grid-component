@@ -1,12 +1,5 @@
 # Single price grid component
-
-<span style="background-color:#F53900;color:#FFFFFF;border-radius:3px;padding:2px 5px;">#html</span>
-<span style="background-color:#2965F1;color:#ffffff;border-radius:3px;padding:2px 5px;">#css</span>
-<span style="background-color:#D74A34;color:#ffffff;border-radius:3px;padding:2px 5px;">#git</span>
-<span style="background-color:#191919;color:#ffffff;border-radius:3px;padding:2px 5px;">#github</span>
-
-
-
+#html #css #git #github
 
 
 ## Descripción
@@ -17,6 +10,23 @@ Desarrollar un componente de precios simple con HTML y CSS siguiendo las indicac
 
 
 ## Demo
+EL resultado del proyecto pe puede ver [aquí](https://crojasf.github.io/01-single-price-grid-component/)
+
+
+## Pasos a realizar en el proyecto
+
+Iniciar proyecto guardando los ficheros y sugiendolos a Github
+
+Ejecutar en consola:
+```bash
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/crojasf/01-single-price-grid-component.git
+git push -u origin main
+```
+
 
 ## Instalación
 
