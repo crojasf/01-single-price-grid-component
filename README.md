@@ -17,10 +17,6 @@ El resultado del proyecto puede verse [aquí](https://crojasf.github.io/01-singl
 + Iniciar proyecto guardando los ficheros y subiéndolos a Github.
 + Crear la estructura HTML del componente a crear.
 + Crear estilos para Mobile First y retocar algunas etiquetas HTML.
-+ Aplicar MediaQuerys para estilos para Desktop.
++ Aplicar MediaQuerys para estilos para Desktop y algunos ajustes finales.
 
 
-
-## Instalación
-
-## Despliegue / Compilación
